@@ -19,8 +19,8 @@ Security is a top priority for FireFox Solana. We implement best practices in sm
 ### Roadmap
 Our roadmap outlines the key milestones we aim to achieve:
 - **1:** Launch of FireFox Solana token and initial community building.
-- **2:** Introduction of staking options and the first token burn event.
-- **3:** Release of the first comic book NFT series by SinisterCyclops.
+- **2:** Release of the first comic book NFT series by SinisterCyclops.
+- **3:** Introduction of staking options and the first token burn event.
 - **4:** Expansion of the FireFox Solana ecosystem with additional features, Dapps linked to our token and partnerships.
 ## Conclusion
 
