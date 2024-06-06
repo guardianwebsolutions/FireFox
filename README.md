@@ -18,10 +18,10 @@ FireFox Solana integrates with the booming NFT market, offering unique collectib
 Security is a top priority for FireFox Solana. We implement best practices in smart contract development and conduct regular security audits to safeguard our users' assets and data.
 ### Roadmap
 Our roadmap outlines the key milestones we aim to achieve:
-- **Q2 2024:** Launch of FireFox Solana token and initial community building.
-- **Q3 2024:** Introduction of staking options and the first token burn event.
-- **Q4 2024:** Release of the first comic book NFT series by SinisterCyclops.
-- **Q1 2025:** Expansion of the FireFox Solana ecosystem with additional features and partnerships.
+- **1:** Launch of FireFox Solana token and initial community building.
+- **2:** Introduction of staking options and the first token burn event.
+- **3:** Release of the first comic book NFT series by SinisterCyclops.
+- **4:** Expansion of the FireFox Solana ecosystem with additional features, Dapps linked to our token and partnerships.
 ## Conclusion
 
 FireFox Solana is more than just a meme coin; it is a vibrant and evolving ecosystem that combines the best aspects of blockchain technology, art, and community engagement. We invite you to join us on this exciting journey as we set new standards in the world of meme coins.
